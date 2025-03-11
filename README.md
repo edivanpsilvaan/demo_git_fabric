@@ -1,4 +1,4 @@
-Eata será uma demostração da integração do Git com Fabric
+Esta será uma demostração da integração do Git com Fabric
 
 Criaremos um projeto no Power BI completo e integraremos
 
